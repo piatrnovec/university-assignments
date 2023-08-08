@@ -6,7 +6,6 @@ Welcome to the README section for my assignments completed during my time in the
 
 Table of Contents
 
-Introduction
 
 Assignment 1: Exploratory Data Analysis
 
@@ -24,9 +23,6 @@ Assignment 7: Natural Language Processing
 
 Assignment 8: Time Series Analysis
 
-Conclusion
-
-Acknowledgments
 
 Contact Information
 
