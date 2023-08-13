@@ -7,22 +7,24 @@ Welcome to the README section for my assignments completed during my time in the
 Table of Contents
 
 
-Assignment 1: Exploratory Data Analysis
+Assignment 1: Exploratory Data Analysis (Exploring Airbnb in New York)
 
-Assignment 2: Data Visualization
+Assignment 2: Preprocessing, Exploratory Analysis, and Clustering of Deodorant Sales Data
 
-Assignment 3: Data Cleaning and Preprocessing
+Assignment 3: Statistical Exercises
+-1: Statistical Analysis of Mammography in Breast Cancer Detection
+-2: Fermi's Paradox Estimating Earth-Like Planets in the Milky Way
+-3: Hypothesis Testing for Amazon Prime
+-4: Sample Size Determination for Robust AB Test Results
 
-Assignment 4: Feature Engineering
+Assignment 4: Shiny App for Logistic Regression Model Analysis
 
-Assignment 5: Supervised Machine Learning
+Assignment 5: Evolutionary Computation in R
 
-Assignment 6: Unsupervised Machine Learning
+Assignment 6: Text Preprocessing Tokenization to Lemmatization
 
-Assignment 7: Natural Language Processing
+Assignment 7: LSTM for Time-Series Analysis
 
-Assignment 8: Time Series Analysis
+Assignment 8: Sales Analysis (Statistical Comparisons in R)
 
-
-Contact Information
 
